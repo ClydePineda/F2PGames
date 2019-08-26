@@ -8,12 +8,15 @@
 body{
     background-color: rgb(41, 41, 41);
 }
+.logo{
+    margin-left:-250px;
+}
 nav{
     display:flex;
     justify-content: space-around;
-    min-height:8.5vh;
+    min-height:9vh;
     align-items: center;
-    background-color: gray;
+    background-color: rgb(207, 0, 0);
 }
 .top-links{
     display:flex;
@@ -23,4 +26,11 @@ nav{
 }
 .top-links a{
     text-decoration:none;
+}
+.gameType{
+    display:none;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
 }
