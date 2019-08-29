@@ -46,3 +46,7 @@ h1{
 ul li:hover .gameType {
     display:block;
 }
+form{
+    text-align:center;
+    align-items: center;
+}
