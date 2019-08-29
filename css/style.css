@@ -48,5 +48,16 @@ ul li:hover .gameType {
 }
 form{
     text-align:center;
-    align-items: center;
+    align-items: center; 
+}
+input[type=text]{
+    background-color:black;
+    color:white;
+}
+input{
+    margin-bottom: 20px;
+}
+textarea[type=text]{
+    background-color:black;
+    color:white;
 }
